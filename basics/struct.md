@@ -45,12 +45,8 @@ type Car struct{
 }
 
 func main(){
-    person := person {
-        "Hadi",
-        25,
-    }
-    person2 := person {
-        "Khashayar",
-        33,
+    car1 := Car {
+        color: "green",
     }
 }
+   
