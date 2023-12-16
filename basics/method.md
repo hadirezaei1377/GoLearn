@@ -6,7 +6,7 @@ type Car struct {
     Model string
     Color string
     Power int
-    Mod bool
+    Mode bool
 }
 
 func main() {
@@ -37,7 +37,7 @@ func (c Car) Drive() {
  check if the car is on can drive:
 
 func (c Car) Drive() {
-    if c.Mod{
+    if c.Mode{
     fmt.Println(c.Producer + "-" + c.Model, "is driving")
     }else{
         fmt.Println(c.Producer + "-" + c.Model, "cant be driven")
