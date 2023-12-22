@@ -1,0 +1,1 @@
+create a json file which read the subtitle file and return for us what vocabulary it has and the number of iteration.
