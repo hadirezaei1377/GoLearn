@@ -26,26 +26,7 @@ b is a method that returns c , c is not type
 
 
 
-<!-- 
 
-
-type Product struct {
-	ID                 int
-	Title              string
-	Description        string
-	Price              int
-	DiscountPercentage float32
-	Rating             float32
-	Stock              int
-	Images             []string
-}
-
-type Response struct {
-	Products []Product
-	Total    int
-	Skip     int
-	Limit    int
-} -->
 
 
 	
