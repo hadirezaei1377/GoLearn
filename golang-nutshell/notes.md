@@ -215,3 +215,8 @@ Verb	Description
 %T	Prints the type of the value
 %%	Prints the % sign
 
+Go Data Types
+Data type is an important concept in programming. Data type specifies the size and type of variable values.
+
+Go is statically typed, meaning that once a variable type is defined, it can only store data of that type.
+
